@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<script>
+  alert ("tapi apa yang telah terjadi")
+  alert ("lihat tawamu-")
+  alert ("ku yang menjadi...")
+  alert ("sayang kepadamuuu")
+  alert ("ikan apa yang terindah?")
+  alert ("ikan not live without u in my life")
+  alert ("ayam apa yang termanis?")
+  alert ("ayam falling in love with u")
+  alert ("aku ingin-")
+  alert ("kamu tau")
+  alert ("semua rasaku kepadamuuu")
+  alert ("ku tak ingin menjadi-")
+  alert ("kaktus")
+  alert ("kakak adik tanpa...")
+  alert ("statusss")
+  alert ("eitss, bacanya sambil nyanyi loh")
+  alert ("tau lagu nya ga?")
+  alert ("judul nya...")
+  alert ("kaktus - suara kayu")
+  alert ("coba di search dulu")
+  alert ("tapi yang versi pop-punk biar vibes nya ga terlalu mellow")
+  alert ("wkwk :D")
+  alert ("kalo udah ketemu balik kesini lagi sambil di play")
+  alert ("terus kalo udah selesai-")
+  alert ("DM yaaa")
+  alert (":v")
+</script>
+<body>
+  
+  <script src="script.js"></script>
+
+
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>
